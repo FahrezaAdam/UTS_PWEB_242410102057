@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Footique
 =======
 Footique adalah sebuah website toko sepatu online yang dibuat untuk mempermudah pengguna dalam mencari dan membeli sepatu secara digital.  
